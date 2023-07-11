@@ -7,7 +7,8 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Bejon-Norman1/Azure-Honeynet-SOC-Project.git)
-- <b> Google CyberSecurity Portfolio Projects</b>
+- <b> Google Cybersecurity Portfolio Projects</b>
+  - [Conducting an internal security audit for fictional company]
 
 
 <h2> 🤳 Connect with me:</h2>
