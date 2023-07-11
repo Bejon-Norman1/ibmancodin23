@@ -9,6 +9,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Bejon-Norman1/Azure-Honeynet-SOC-Project.git)
 - <b> Google Cybersecurity Portfolio Projects</b>
   - [Conducting an Internal Security Audit for Botium Toys](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/blob/main/README.md)
+  - [Showcasing my Proficiency in Effectively Communicating the Results and Recommendations of the Security Audit to Stakeholders](https://github.com/Bejon-Norman1/Stakeholder_Memorandum.md/blob/main/README.md)  
 
 
 <h2> 🤳 Connect with me:</h2>
