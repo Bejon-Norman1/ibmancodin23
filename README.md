@@ -11,6 +11,7 @@
   - [Conducting an Internal Security Audit for Botium Toys](https://github.com/Bejon-Norman1/Google-Internal-security-audit-Project/blob/main/README.md)
   - [Demonstrating Effective Communication of Audit Results and Recommendations to Stakeholders.](https://github.com/Bejon-Norman1/Stakeholder_Memorandum.md/blob/main/README.md)  
   - [Using NIST Cybersecurity Framework to respond to a security incident.](https://github.com/Bejon-Norman1/NIST-Cybersecurity-Framework)
+  - [Using Linux commands to manage file permissions.]
 
 <h2> 🤳 Connect with me:</h2>
   
